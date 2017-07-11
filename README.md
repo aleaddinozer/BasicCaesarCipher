@@ -1,6 +1,5 @@
 # BasicCaesarCipher
 Cryptography- Caesar Cipher
-# Basic Caesar Cipher
 Caesar cipher is known as the earliest used substitution cipher. It just replaces each letter with another letter in alphabet. But, attention must be on the value of the shifted character numbers. For example,  when you use 'd' for 'a' then you need to use 'j' for 'g'. 
 Let's look at the the English alphabet
         
